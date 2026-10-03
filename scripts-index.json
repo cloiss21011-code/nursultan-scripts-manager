@@ -1,0 +1,11 @@
+[
+  {
+    "id": "my-first-script",
+    "name": "My First Script",
+    "description": "Описание что делает скрипт. Возьми с Discord.",
+    "author": "твой ник",
+    "version": "1.0",
+    "file": "https://raw.githubusercontent.com/ЗАМЕНИ-НА-СВОЙ-НИК/nursultan-scripts/main/scripts/my-first-script.kts",
+    "sha256": ""
+  }
+]
