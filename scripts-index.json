@@ -2,8 +2,8 @@
   {
     "id": "my-first-script",
     "name": "My First Script",
-    "description": "Описание что делает скрипт. Возьми с Discord.",
-    "author": "твой ник",
+    "description": "Тестовый скрипт",
+    "author": "cloiss21011-code",
     "version": "1.0",
     "file": "https://raw.githubusercontent.com/cloiss21011-code/nursultan-scripts-manager/main/scripts/my-first-script.kts",
     "sha256": ""
